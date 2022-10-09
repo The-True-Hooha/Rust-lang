@@ -1,0 +1,11 @@
+C:\TECH STACK\CODE\rust foundation\hello-rust\target\debug\deps\textwrap-70094105a04753ec.rmeta: C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\TECH STACK\CODE\rust foundation\hello-rust\target\debug\deps\libtextwrap-70094105a04753ec.rlib: C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\TECH STACK\CODE\rust foundation\hello-rust\target\debug\deps\textwrap-70094105a04753ec.d: C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\lib.rs:
+C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\indentation.rs:
+C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\splitting.rs:
+C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core.rs:
+C:\Users\Owogo\.cargo\registry\src\github.com-1ecc6299db9ec823\textwrap-0.13.4\src\core\optimal_fit.rs:
